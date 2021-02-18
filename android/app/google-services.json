@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399445074309",
+    "project_id": "educalink-548ae",
+    "storage_bucket": "educalink-548ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399445074309:android:f292224ae0dbdf6ae8a4ec",
+        "android_client_info": {
+          "package_name": "com.citylab.educalink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399445074309-pf27d8kg41mmidqdhpp37hsgsednmvmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBTFYSr0s_t1NvjF0q-HiCcouyNxvW0Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399445074309-pf27d8kg41mmidqdhpp37hsgsednmvmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
